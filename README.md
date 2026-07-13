@@ -57,6 +57,7 @@ The system is designed using the **Model-View-Controller (MVC)** architectural s
 *   **View:** A Graphical User Interface (GUI) tailored for different users (Parents, Teachers, Managers) without altering the underlying logic.
 
 **Full High-Level Architectural Model**
+
 ![High-Level Architectural Model](https://github.com/user-attachments/assets/514e0473-7ff8-4bb7-9655-b74782b27c0b )
 
 
@@ -67,10 +68,12 @@ The system is designed using the **Model-View-Controller (MVC)** architectural s
 To visualize the system's behavior and structure, we developed several UML diagrams.
 
 **Activity Diagram & To-Be System Perimeter**
+
 ![Activity Diagram](https://github.com/user-attachments/assets/c18bdc57-d7a3-4f67-aa41-13b77f4e7222 )
 
 **Full Domain Class Diagram**
 *Illustrates the relationships between Students, Admission Managers, Teachers, Parents, and Drivers.*
+
 ![Full Domain Class Diagram](https://github.com/user-attachments/assets/d6759119-cc28-487b-a468-cde4e8f29c05 )
 
 
@@ -83,12 +86,15 @@ To demonstrate our Agile iterative process, below is the system modeling for our
 *   **Primary Actors:** Parent, Admission Manager.
 *   **Summary:** A parent submits an admission request. The manager reviews it based on age and seat availability. Upon acceptance, the parent pays the fee and is notified of successful enrollment.
 **Use Case Diagram (Sprint 1)**
+
 ![Use Case Diagram - Sprint 1](https://github.com/user-attachments/assets/f7ccdbb3-11cf-451b-861e-c82a8ff83df4 )
   
 **System Sequence Diagram (Sprint 1)**
+
 ![System Sequence Diagram - Sprint 1](https://github.com/user-attachments/assets/2223c223-de36-4649-a3f2-f403d17f9ff8 )
 
 **Fragment of the Domain Class Diagram (Sprint 1)**
+
 ![Fragment Class Diagram - Sprint 1](https://github.com/user-attachments/assets/726b3bcc-d4e3-43ee-9a5c-75d5c2c1b174 )
 
 ---
